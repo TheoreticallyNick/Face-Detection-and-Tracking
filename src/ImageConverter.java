@@ -10,7 +10,7 @@ import org.opencv.core.Mat;
 
 /**
  *
- * @author Huiying Shen
+ * @credit to author: Huiying Shen
  */
 public class ImageConverter {
     Mat mat;
